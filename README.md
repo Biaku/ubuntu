@@ -43,3 +43,8 @@ cosas relacionadas con mi incursión en ubuntu
 ***
 **Apagar el sistema**  
 `sudo shutdown -h`  
+***
+**Instalar Postgresql**  
+`sudo install postgresql`  
+**Instalar libpq-dev (para conectar django con postgres)**  
+`sudo apt-get install libpq-dev`  
