@@ -33,6 +33,13 @@ cosas relacionadas con mi incursión en ubuntu
 `sudo apt-get install apache2`  
 **Instalar modulo mod_wsgi (para desplegar django con python 3)**  
 `sudo apt-get install libapache2-mod-wsgi-py3`  
+**Reiniciar Apache**  
+`sudo /etc/init.d/apache2 restart`  
+**Checar funcionamiento del servicio**  
+`sudo systemctl status apache2.service`  
 ***
 **Instalar PIP (python3)**  
 `sudo apt-get install python3-pip`  
+***
+**Apagar el sistema**  
+`sudo shutdown -h`  
