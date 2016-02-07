@@ -29,3 +29,10 @@ cosas relacionadas con mi incursión en ubuntu
 **Remover el repositorio**  
 `sudo add-apt-repository --remove ppa:mystic-mirage/pycharm`  
 ***
+**Instalar servidor Apache**  
+`sudo apt-get install apache2`  
+**Instalar modulo mod_wsgi (para desplegar django con python 3)**  
+`sudo apt-get install libapache2-mod-wsgi-py3`  
+***
+**Instalar PIP (python3)**  
+`sudo apt-get install python3-pip`  
