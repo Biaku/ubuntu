@@ -40,6 +40,8 @@ cosas relacionadas con mi incursión en ubuntu
 ***
 **Instalar PIP (python3)**  
 `sudo apt-get install python3-pip`  
+**Instalar python3-dev (python3)**  
+`sudo apt-get install python3-dev`  
 ***
 **Apagar el sistema**  
 `sudo shutdown -h`  
