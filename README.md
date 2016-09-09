@@ -52,4 +52,6 @@ cosas relacionadas con mi incursión en ubuntu
 `sudo apt-get install libpq-dev`  
 ***
 **Variables de entorno**  
+`printenv` muestra las varibles de entorno  
+`export` agrega una nueva variable de entorno
 
