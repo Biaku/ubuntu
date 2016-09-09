@@ -50,3 +50,6 @@ cosas relacionadas con mi incursión en ubuntu
 `sudo apt-get install postgresql`  
 **Instalar libpq-dev (para conectar django con postgres)**  
 `sudo apt-get install libpq-dev`  
+***
+**Variables de entorno**  
+
